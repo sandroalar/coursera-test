@@ -1,0 +1,38 @@
+
+
+h1{
+	font-family: fantasy;
+	font-size: 35px;
+}
+
+div {
+	border: darkgray;
+	
+display: table-cell;
+padding: 10px
+	
+}
+#content{
+	font-family:monospace;
+	background-color: darkgray;
+	border: 1px solid;
+	padding: 5px;
+	margin: 20px;
+	
+}
+h2{
+
+	padding: 3px ;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 0px;
+text-align:center;
+
+border-color: black;
+background-color: orange;}
+@media screen and (max-width: 800px;){
+	body{
+		
+background-color: black;
+
+	}
+}
